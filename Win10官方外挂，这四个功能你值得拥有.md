@@ -14,15 +14,9 @@ PowerToys这个项目目前还没有内置在windows里面，可以通过https:/
 
 如果正好你也需要与这两种文件打交道，下载安装PowerToy在资源管理器中勾选SVG Previewer和Markdown Previewer。重启资源管理器后便可以开启SVG图片和Markdown图片预览了。
 
- 
+![image-20200807171059364](D:\work\git\story\pic\image-20200807171059364.png)
 
-![img](file:///C:/Users/ERICZH~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
-
- 
-
-![img](file:///C:/Users/ERICZH~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
-
- 
+![image-20200807171117842](D:\work\git\story\pic\image-20200807171117842.png)
 
 目前PowerToys只支持SVG、Markdown文件预览，期待后续加入更多类型文件预览。
 
@@ -34,15 +28,9 @@ PowerToys这个项目目前还没有内置在windows里面，可以通过https:/
 
 选择完成布局设置以后，按住Shift键就可以将已经打开的窗口拖入对应的区域。
 
- 
+![image-20200807171234094](D:\work\git\story\pic\image-20200807171234094.png)
 
-![img](file:///C:/Users/ERICZH~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
-
- 
-
-![img](file:///C:/Users/ERICZH~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)
-
- 
+![image-20200807171254614](D:\work\git\story\pic\image-20200807171254614.png)
 
 **3、 快捷键辅助工具**
 
@@ -50,13 +38,7 @@ PowerToys这个项目目前还没有内置在windows里面，可以通过https:/
 
 具体操作非常简单，长按WIN键一秒钟就可以激活全屏显示的快捷键指南。
 
- 
-
-![img](file:///C:/Users/ERICZH~1/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg)
-
- 
-
- 
+![image-20200807171316075](D:\work\git\story\pic\image-20200807171316075.png)
 
 **4、 取色工具**
 
@@ -66,10 +48,8 @@ PowerToys这个项目目前还没有内置在windows里面，可以通过https:/
 
 值得一提的是，为了方便对一些细致的取色场景，PowerToys取色工具可以使用滚动操作对特定区域进行放大。
 
- ![img](file:///C:/Users/ERICZH~1/AppData/Local/Temp/msohtmlclip1/01/clip_image011.gif)
+![image-20200807171338474](D:\work\git\story\pic\image-20200807171338474.png)
 
- 
-
- 以上是我给大家推荐的四个常用工具，随着PowerToys不断更新，相信未来会有更多实用功能加入进来，让我们共同期待吧！
+以上是我给大家推荐的四个常用工具，随着PowerToys不断更新，相信未来会有更多实用功能加入进来，让我们共同期待吧！
 
  
