@@ -184,5 +184,5 @@ Typora脚注[^1]
 
   Typora支持导出PDF、HTML等格式。你可以根据软件内提示安装Pandoc插件导出docx、LaTeX等格式。
 
-![img](https://cdn.sspai.com/2019/05/24/ba295f21f0b71646bb36a0517e868ced.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
+
 
